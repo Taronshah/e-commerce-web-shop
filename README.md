@@ -1,1 +1,1 @@
-### [Live Site](https://commerce-js.netlify.app/)
+### [Live Site](https://taronshah.github.io/e-commerce-web-shop/)
